@@ -15,7 +15,7 @@ body{
 .header{
     width: 1440px;
     height: 698px;
-    background-image: url('Assets/Hero-bg.png');
+    background-image: url('resource/Hero-bg.png');
     background-size: cover;
     margin: auto;
     background-repeat: no-repeat;
